@@ -5,3 +5,4 @@ public interface Database {
     int count();
     List<StudentRecord> all();
 }
+
