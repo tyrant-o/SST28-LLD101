@@ -7,3 +7,4 @@ public class FakeDb {
     public int count() { return rows.size(); }
     public List<StudentRecord> all() { return Collections.unmodifiableList(rows); }
 }
+
